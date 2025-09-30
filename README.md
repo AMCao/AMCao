@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Welcome Banner">
+  <img src="amcao001.edgeone.app" alt="Welcome">
 </p>
 
 <h1 align="center">AMCao just want to evolve</h1>
