@@ -2,20 +2,7 @@
   <img src="https://your-image-url.com/banner.png" alt="Welcome Banner">
 </p>
 
-<h1 align="center">Hi there, I'm [你的名字] 👋</h1>
-<h3 align="center">A passionate [你的职位/身份] from [你所在的城市]</h3>
-
-<p align="left">
-  <br>
-  我是一名对 [你热衷的领域1] 和 [你热衷的领域2] 充满热情的开发者/学生/设计师。我享受构建实用、有趣的项目，并不断学习新技术。
-</p>
-
-- 🌱 我最近在学习 **[你正在学习的技术]**。
-- 👯 我希望能在 **[你希望合作的项目类型]** 上与人合作。
-- 🤔 我正在寻找关于 **[你需要帮助的问题]** 的帮助。
-- 💬 随时可以问我关于 **[你擅长的技术]** 的问题。
-- 📫 如何联系我: **[你的邮箱地址]**
-- ⚡ 有趣的事实: [关于你的一个有趣的小知识]。
+<h1 align="center">AMCao just want to evolve</h1>
 
 <br>
 
